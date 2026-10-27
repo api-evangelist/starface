@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-STARFACE is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://starface.com/
+STARFACE provides unified communication solutions, offering a comprehensive IP‑based phone system that integrates voice, video, chat, and collaboration tools for businesses of all sizes. Their platform supports on‑premises, cloud, and hybrid deployments, featuring advanced call routing, voicemail, conferencing, and integration with CRM and ERP systems. STARFACE focuses on security, scalability, and ease of management, delivering a modern unified communications experience.
+
+**Areas:** Company · Communications · Unified Communications · VoIP · Business Solutions
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://starface.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/starface/](https://apis.io/providers/starface/).
