@@ -73,6 +73,8 @@ STARFACE provides unified communication solutions, offering a comprehensive IPâ€
 Links to the company's own pages. This repository publishes no copy of their specifications â€” the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://starface.com/)
+- [Blog](https://starface.com/blog/)
+- [Terms of service](https://starface.com/en/terms-conditions/)
 
 ## API Evangelist rating
 
